@@ -1,0 +1,13 @@
+{
+  "name": "{{name}}",
+  "description": "{{description}}",
+  "author": "Azed",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "azg": "git init && az-git -n={{name}}"
+  },
+  "devDependencies": {
+    "az-git": "^1.0.2"
+  }
+}

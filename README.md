@@ -1,2 +1,3 @@
-# template-basic
-A basic template
+# {{name}}
+
+{{description}}
