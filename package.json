@@ -6,8 +6,5 @@
   "license": "MIT",
   "scripts": {
     "azg": "git init && az-git -n={{name}} -d=\"{{description}}\""
-  },
-  "devDependencies": {
-    "az-git": "^1.0.2"
   }
 }
